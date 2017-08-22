@@ -8,3 +8,5 @@
   </pre>
   
   <cite>Esse script foi feito em Python2 usando o módulo <code>py_compile</code>.</cite>
+<p>compile.py - Rodando em Backbox OS</p>
+<img src="http://i.imgur.com/0TzdQ47.png"/>
